@@ -1,4 +1,4 @@
-###Hy... It’s me Timo S.✨
+### Hy... It’s me Timo S.✨
 
 <!--
 **timo-cmd/timo-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
