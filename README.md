@@ -1,6 +1,8 @@
 ### Hy... It’s me Timo S.✨
 
 I'm a 16 years old computer-science student with a great passion on system-engineering and backend development. 
+
+Follow me on my website: <a href="http://timo-cmd.github.io">Timo-cmd</a> <br> Or on my GitHub website: <a href="http://GitHub.com/timo-cmd">GitHub.com/timo-cmd/</a>.
 <!--
 #### Skills💪🏻
 
