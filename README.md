@@ -5,7 +5,10 @@
 
 I'm a 16 years old computer-science student with a great passion on system-engineering and backend development. 
 
-Follow me on my website: <a href="http://timo-cmd.github.io">Timo-cmd</a> <br> <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"></img>
+<br> 
+<img src="https://github.com/timo-cmd/timo-cmd/blob/master/72090AF8-49AD-420A-B063-5D70746F8BBF.png"></img><br>
+
+Follow me on my website: <a href="http://timo-cmd.github.io">Timo-cmd</a>
 <!--
 #### Skills💪🏻
 
