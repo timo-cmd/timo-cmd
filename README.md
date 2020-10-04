@@ -1,4 +1,4 @@
-### Hy... It’s me Timo S.✨
+### Hy... It’s me Timo Sarkar✨
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd" alt="timo-cmd" /> </p>
