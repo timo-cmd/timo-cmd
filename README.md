@@ -5,6 +5,10 @@
 
 I'm a 16 years old computer-science student with a great passion on system-engineering and backend development. 
 
+Currently highly focused on malware development, penetration testing, compiler-construction and group policy administration.
+
+
+
 
 
 Follow me on my website: <a href="http://timo-cmd.github.io">Timo-cmd</a>
