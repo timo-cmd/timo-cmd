@@ -7,6 +7,8 @@ I'm a 16 years old computer-science student with a great passion on system-engin
 
 Currently highly focused on malware development, penetration testing, compiler-construction and group policy administration.
 
+Studying at BBZW Sursee and Perlen Papier Ag. 
+
 
 
 
