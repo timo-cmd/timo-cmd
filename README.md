@@ -1,7 +1,17 @@
 ### Hy... It’s me Timo Sarkar✨
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd" alt="timo-cmd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timo-cmd" alt="timo-cmd" /> </p> 
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
+
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 I'm a 16 years old computer-science student with a great passion on system-engineering and backend development. Currently highly focused on malware development, penetration testing, compiler-construction and group policy administration. Studying at BBZW Sursee and Perlen Papier Ag. 
 
