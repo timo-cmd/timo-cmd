@@ -16,7 +16,7 @@ Here are some of my skills listed on system-engineering and software development
   - Cloud and IoT Engineering with: Docker, SQL, SAP and Azure Cloud 
 
  **Software Development**:
-
+ 
   - OOP with C/C++/C#, JS and Golang,
   - Data-science with: Julia, matlab and wolfram
   - Pentesting in C and C++
@@ -24,6 +24,8 @@ Here are some of my skills listed on system-engineering and software development
   - Compiler construction with: Nodejs and Golang
   - General knowledge in: Lua, Ruby, Crystal, Golang, Haskell, Elixir/Erlang, Dart/Flutter and Verilog
 
+
+**Prefix board**
 
 - 🔭 I’m currently working on the **Haiku dezentral blockchain**
 - 🌱 I’m currently learning **homoionic compiler construction**
