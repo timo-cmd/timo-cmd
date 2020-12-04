@@ -40,7 +40,7 @@ Here are some of my skills listed on system-engineering and software development
 - 🔭 I’m currently working on the **Haiku dezentral blockchain**
 - 🌱 I’m currently learning **homoionic compiler construction**
 - 👯 I’m looking to collaborate on the **Julia programming language**
-- 🤔 I’m looking for help with the **Magnar cryptominer**
+- 🤔 I’m looking for help with the **Haiku Blockchainr**
 - 💬 Ask me about **anything in Compiler-construction until Concurrency-facts**
 - 📫 How to reach me: **Via mail at: sartimo10@gmail.com**
 - 😄 Adjectives: **Coffee-coder, Energetic, thirsty for system-engineering knowledge** 
