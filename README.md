@@ -46,8 +46,12 @@ Here are some of my skills listed on system-engineering and software development
 - 😄 Adjectives: **Coffee-coder, Energetic, thirsty for system-engineering knowledge** 
 - ⚡ Fun fact: **Banging your head against a wall for one hour burns 150 calories.**
 
-Follow me on my website: <a href="http://timo-cmd.github.io">Timo-cmd</a>
+
+
 
 <div align="center">
 <img src="https://github.com/timo-cmd/timo-cmd/blob/master/wall.JPG?raw=true"></img>
 </div>
+
+
+Follow me on my website: <a href="http://timo-cmd.github.io">Timo-cmd</a>
