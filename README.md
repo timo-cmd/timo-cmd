@@ -48,3 +48,6 @@ Here are some of my skills listed on system-engineering and software development
 
 Follow me on my website: <a href="http://timo-cmd.github.io">Timo-cmd</a>
 
+<div align="center">
+<img src="https://github.com/timo-cmd/timo-cmd/blob/master/wall.JPG?raw=true"></img>
+</div>
