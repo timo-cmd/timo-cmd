@@ -13,7 +13,7 @@
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
-I'm a 16 years old computer-science student with a great passion on system-engineering and backend development. Currently highly focused on malware development, penetration testing, compiler-construction and group policy administration. Studying at BBZW Sursee and Perlen Papier Ag. 
+I'm a 16 years old computer-science student with a great passion on system-engineering and backend development. Currently highly focused on malware development, penetration testing, compiler-construction and group policy administration. 
 
 #### Skills💪🏻
 
