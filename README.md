@@ -11,7 +11,7 @@
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](http://ForTheBadge.com)
 
 I'm a 16 years old computer-science student with a great passion on system-engineering and backend development. Currently highly focused on malware development, penetration testing, compiler-construction and group policy administration. 
 
